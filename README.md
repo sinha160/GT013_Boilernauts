@@ -1,2 +1,2 @@
-# GT013_BOilernauts
+# GT013_Boilernauts
 Working File Bank of the team's (Boilernauts) solution to JPL GT013's problem. 
